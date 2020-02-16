@@ -1,6 +1,6 @@
 # Reinforcement Learning
 # Problem 1
-Incremental implemntation of average and exploration vs exploitation comparison
+Incremental implementation of average and exploration vs exploitation comparison
 
 # Problem 2
 Model-based RL : value iteration and policy iteration
